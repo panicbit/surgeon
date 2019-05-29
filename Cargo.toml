@@ -1,0 +1,11 @@
+[package]
+name = "patcher"
+version = "0.1.0"
+authors = ["panicbit <panicbit.dev@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rlua = "0.16.3"
+rand = "0.6.5"
+rand_pcg = "0.1.2"
+structopt = "0.2.15"
