@@ -1,5 +1,5 @@
 [package]
-name = "patcher"
+name = "surgeon"
 version = "0.1.0"
 authors = ["panicbit <panicbit.dev@gmail.com>"]
 edition = "2018"
